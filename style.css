@@ -1,0 +1,19 @@
+.letter {
+	background-color: #6ae06a;
+	width: 25px;
+	height: 25px;
+	font-size: 25px;
+	padding: 10px;
+	margin: 10px;
+	border:4px solid #6ae06a;
+	font-weight: bold;
+	cursor: pointer;
+	border-radius: 3px;
+	color:#8a2323;
+
+}
+
+.letter:hover {
+	/*background-color:#6ae06a;*/
+	border:4px solid #3ac757;
+}
